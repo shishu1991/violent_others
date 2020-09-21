@@ -1,0 +1,3 @@
+module tester {
+  requires base;
+}
